@@ -1,0 +1,21 @@
+package com.nelioalves.workshopmongo.repository;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Service;
+
+import com.nelioalves.workshopmongo.domain.User;
+
+@Service
+public interface UserRepository extends MongoRepository<User, String>{
+	
+	@Autowired
+	private UserRepository repo;
+	
+	public List<User> findAll(){
+		for 
+	}
+
+}
