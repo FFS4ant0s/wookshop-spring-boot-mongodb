@@ -9,11 +9,11 @@
 		<version>3.3.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nelioalves</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>workshopmongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>workshopmongodb</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot and Mongodb</description>
 	<url />
 	<licenses>
 		<license />
