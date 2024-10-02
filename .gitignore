@@ -3,7 +3,15 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+
+# Eclipse metadata
 .metadata/
+.classpath
+.project
+.settings/
+
+# Eclipse plugins
+.metadata/.plugins/
 
 ### STS ###
 .apt_generated
